@@ -1,0 +1,1 @@
+document.getElementByIdById("h1id").innerHTML = "ciao come stai?"; 
